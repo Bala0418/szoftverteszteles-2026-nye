@@ -1,0 +1,1 @@
+szoftverteszteles-2026-nye
