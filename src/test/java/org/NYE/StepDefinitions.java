@@ -2,8 +2,6 @@ package org.NYE;
 
 import io.cucumber.java.en.*;
 
-import static org.assertj.core.api.Assertions.assertThat;
-
 class StepDefinitions {
 
     @Given("an example scenario")
